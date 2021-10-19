@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+    /* background-image: url("../Task1Web/bg (1).jpg"); */
+    background-position-y:top
+
+}
+.general{
+    background-image: url("../Task1Web/bg (1).jpg");
+}
